@@ -3,7 +3,7 @@ Backend Capstone Project for Thinkful.
 
 
 
-The API can be found deployed [here](https://welovemovies-znj.herokuapp.com/).
+The API can be found deployed [here](https://svanlee-welovemovies.herokuapp.com/).
 
 # This Project Is Intended To Test My Ability To:
 - Install and use common middleware packages
